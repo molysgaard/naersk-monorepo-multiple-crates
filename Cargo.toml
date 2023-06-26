@@ -1,0 +1,11 @@
+[workspace]
+
+members = [
+  "lib/myliba",
+  "lib/mylibb",
+  "app/myappa",
+]
+
+exclude = [
+  "app/myappb",
+]
